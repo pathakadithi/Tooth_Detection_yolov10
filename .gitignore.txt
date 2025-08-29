@@ -1,0 +1,33 @@
+# Ignore YOLO training outputs
+runs/
+*.pt
+
+# Ignore compressed files
+*.zip
+*.tar
+*.rar
+
+# Ignore video files
+*.mp4
+*.avi
+*.mov
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+.env
+.venv/
+venv/
+ENV/
+
+# Build/egg info
+*.egg-info/
+dist/
+build/
+

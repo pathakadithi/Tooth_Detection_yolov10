@@ -1,0 +1,13 @@
+# Tooth Detection Dataset Config
+
+train: /content/drive/MyDrive/tooth-dataset/images/train
+val: /content/drive/MyDrive/tooth-dataset/images/val
+test: /content/drive/MyDrive/tooth-dataset/images/test   # optional
+
+# Number of classes
+nc: 1
+
+# Class names
+names: ['tooth']
+
+

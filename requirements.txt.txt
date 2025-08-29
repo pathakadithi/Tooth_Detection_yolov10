@@ -1,0 +1,10 @@
+ultralytics>=8.0.0   # for YOLOv8/YOLOv10 training & inference
+torch>=1.8           # PyTorch backend
+torchvision          # for image transforms
+opencv-python        # image preprocessing
+matplotlib           # plotting graphs
+seaborn              # visualization
+pandas               # for results and metrics handling
+numpy                # numerical operations
+tqdm                 # progress bars
+
